@@ -1,5 +1,6 @@
 # fwb45jami
 Web apps assignment 10
+link to heroku server: <https://fwb45jami.herokuapp.com/>
 
 
 Class - icecream class icecream{ constructor(flavour,price,toppings){
